@@ -43,18 +43,18 @@ Complementary information :
 ### Input
 * FASTA : Contains the sequences in fasta format. Example : 
 
->id_sequence_1.description_sequence_1														 
+>id_sequence_1.description_sequence_1
+
 CTCAACTCAGTTCCACCAGGCTCTGTTGGATCCGAGGGTAAGGGCTCTGTATTTTCCTGC 
->id_sequence_2.description_sequence_2															 
+>id_sequence_2.description_sequence_2						
+
 CTCAACTCAGTTCCACCAGGCTCTGTTGGATCCGAGGGTAAGGGCTCTGTATTTTCCTGC
 
 ...
-
+...
 ...
 
-...
-
->id_sequence_n-1.description_sequence_n-1														 
+>id_sequence_n-1.description_sequence_n-1												 
 CTCAACTCAGTTCCACCAGGCTCTGTTGGATCCGAGGGTAAGGGCTCTGTATTTTCCTGC 
 >id_sequence_n.description_sequence_n															 
 CTCAACTCAGTTCCACCAGGCTCTGTTGGATCCGAGGGTAAGGGCTCTGTATTTTCCTGC 
