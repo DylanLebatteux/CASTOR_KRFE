@@ -46,10 +46,14 @@ Complementary information :
 >id_sequence_1.description_sequence_1														 
 CTCAACTCAGTTCCACCAGGCTCTGTTGGATCCGAGGGTAAGGGCTCTGTATTTTCCTGC 
 >id_sequence_2.description_sequence_2															 
-CTCAACTCAGTTCCACCAGGCTCTGTTGGATCCGAGGGTAAGGGCTCTGTATTTTCCTGC 
+CTCAACTCAGTTCCACCAGGCTCTGTTGGATCCGAGGGTAAGGGCTCTGTATTTTCCTGC
+
 ...
+
 ...
+
 ...
+
 >id_sequence_n-1.description_sequence_n-1														 
 CTCAACTCAGTTCCACCAGGCTCTGTTGGATCCGAGGGTAAGGGCTCTGTATTTTCCTGC 
 >id_sequence_n.description_sequence_n															 
