@@ -56,11 +56,8 @@ CTCAACTCAGTTCCACCAGGCTCTGTTGGATCCGAGGGTAAGGGCTCTGTATTTTCCTGC
 CTCAACTCAGTTCCACCAGGCTCTGTTGGATCCGAGGGTAAGGGCTCTGTATTTTCCTGC 
 ```
 
-
-
-
 * CSV :  Contains the classes associated with each sequence. Example :
-
+```sh
 id_sequence_1,class_sequence_1																 
 id_sequence_2,class_sequence_2																		 
 ...																		 
@@ -68,6 +65,7 @@ id_sequence_2,class_sequence_2
 ...	
 id_sequence_n-1,class_sequence_n-1																 
 id_sequence_n,class_sequence_n	
+```
 
 * For more detailed examples see the data sets in the Data folder   
 
